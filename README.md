@@ -1,2 +1,2 @@
 # app - App
-> My Business Application SAP CAP
+> My Business Application in CAP
